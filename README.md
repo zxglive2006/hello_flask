@@ -9,4 +9,5 @@
 
 ## 启动命令：
 #### set FLASK_APP=hello.py
-#### flask run --host=0.0.0.0
+
+#### flask run
